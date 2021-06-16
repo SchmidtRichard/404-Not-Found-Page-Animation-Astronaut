@@ -38,6 +38,14 @@ body {
     transform: rotate(55deg);
 }
 
+.crater3 {
+    width: 65px;
+    height: 120px;
+    top: -20px;
+    left: 40px;
+    transform: rotate(55deg);
+}
+
 
 
 
