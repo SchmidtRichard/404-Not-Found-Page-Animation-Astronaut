@@ -343,6 +343,34 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     transform: rotate(-10deg);
 }
 
+.foot-left {
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 240px;
+    left: 43px;
+    width: 28px;
+    height: 20px;
+    transform: rotate(10deg);
+    border-radius: 3px;
+    border-top-left-radius: 8em;
+    border-top-right-radius: 8em;
+    border-bottom: 4px solid #800080;
+}
+
+.foot-right {
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 240px;
+    left: 110px;
+    width: 28px;
+    height: 20px;
+    transform: rotate(-10deg);
+    border-radius: 3px;
+    border-top-left-radius: 8em;
+    border-top-right-radius: 8em;
+    border-bottom: 4px solid #800080;
+}
+
 
 
 
