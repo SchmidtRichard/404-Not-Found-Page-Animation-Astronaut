@@ -301,6 +301,28 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     transform: rotate(20deg);
 }
 
+.wrist-left {
+    background-color: #800080;
+    position: absolute;
+    top: 122px;
+    left: 6px;
+    width: 21px;
+    height: 4px;
+    border-radius: 8em;
+    transform: rotate(-18deg);
+}
+
+.wrist-right {
+    background-color: #800080;
+    position: absolute;
+    top: 98px;
+    left: 141px;
+    width: 21px;
+    height: 4px;
+    border-radius: 8em;
+    transform: rotate(-10deg);
+}
+
 
 
 
