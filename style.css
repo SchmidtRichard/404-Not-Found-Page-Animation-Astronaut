@@ -46,9 +46,38 @@ body {
     transform: rotate(55deg);
 }
 
+.star {
+    background: grey;
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    border-radius: 100%;
+    transform: rotate(250deg);
+    opacity: 0.4;
+    animation-name: shimmer;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
 
+/*
+The @keyframes rule specifies the animation code.
 
+The animation is created by gradually changing from one set of CSS styles to another.
 
+During the animation, you can change the set of CSS styles many times.
+
+Specify when the style change will happen in percent, or with the keywords "from" and "to",
+which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is when the animation is complete.
+ */
+@keyframes shimmer {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 0.7;
+    }
+}
 
 
 
