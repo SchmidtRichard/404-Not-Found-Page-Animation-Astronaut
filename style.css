@@ -211,7 +211,15 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     border-radius: 8px;
 }
 
-
+.body {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 115px;
+    left: 55px;
+    width: 70px;
+    height: 80px;
+    border-radius: 8px;
+}
 
 
 
