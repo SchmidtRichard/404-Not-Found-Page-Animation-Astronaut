@@ -108,6 +108,13 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     animation-delay: 0.5s;
 }
 
+.error {
+    position: absolute;
+    left: 100px;
+    top: 400px;
+    transform: translateY(-60%);
+    font-family: "Righteous", cursive;
+}
 
 
 
