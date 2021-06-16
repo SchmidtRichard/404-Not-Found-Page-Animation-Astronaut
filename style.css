@@ -160,6 +160,15 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     color: white;
 }
 
+.astronaut {
+    position: absolute;
+    width: 185px;
+    height: 300px;
+    left: 70%;
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(20deg) scale(1.2);
+}
+
 
 
 
