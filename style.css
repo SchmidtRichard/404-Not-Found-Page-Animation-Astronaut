@@ -201,6 +201,16 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     opacity: 0.3;
 }
 
+.backpack {
+    background-color: #bfbfbf;
+    position: absolute;
+    top: 90px;
+    left: 47px;
+    width: 86px;
+    height: 90px;
+    border-radius: 8px;
+}
+
 
 
 
