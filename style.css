@@ -169,6 +169,16 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     transform: translate(-50%, -50%) rotate(20deg) scale(1.2);
 }
 
+.head {
+    background-color: white;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 2em;
+}
+
 
 
 
