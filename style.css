@@ -179,7 +179,27 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     border-radius: 2em;
 }
 
+.head-visor-flare1 {
+    background-color: #7f8fa6;
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    width: 10px;
+    height: 10px;
+    border-radius: 2em;
+    opacity: 0.5;
+}
 
+.head-visor-flare2 {
+    background-color: #718093;
+    position: absolute;
+    top: 40px;
+    left: 38px;
+    width: 5px;
+    height: 5px;
+    border-radius: 2em;
+    opacity: 0.3;
+}
 
 
 
