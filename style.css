@@ -279,6 +279,29 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     border-top-right-radius: 8em;
 }
 
+.arm-thumb-left {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 110px;
+    left: 21px;
+    width: 10px;
+    height: 6px;
+    border-radius: 8em;
+    transform: rotate(-35deg);
+}
+
+.arm-thumb-right {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 90px;
+    left: 133px;
+    width: 10px;
+    height: 6px;
+    border-radius: 8em;
+    transform: rotate(20deg);
+}
+
+
 
 
 
