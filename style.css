@@ -323,6 +323,25 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     transform: rotate(-10deg);
 }
 
+.leg-left {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 188px;
+    left: 50px;
+    width: 23px;
+    height: 75px;
+    transform: rotate(10deg);
+}
+
+.leg-right {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 188px;
+    left: 108px;
+    width: 23px;
+    height: 75px;
+    transform: rotate(-10deg);
+}
 
 
 
