@@ -114,6 +114,35 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     top: 400px;
     transform: translateY(-60%);
     font-family: "Righteous", cursive;
+    color: #343e49;
+}
+
+.title {
+    font-size: 10em;
+}
+
+.subtitle {
+    font-size: 1.7rem;
+}
+
+.description {
+    opacity: 0.5;
+}
+
+.button {
+    min-width: 7rem;
+    margin-top: 3rem;
+    margin-right: 0.5em;
+    padding: 0.5em 2em;
+    outline: none;
+    border: 2px solid #2f3640;
+    background-color: transparent;
+    border-radius: 8em;
+    color: #576375;
+    cursor: pointer;
+    transition-duration: 0.2s;
+    font-size: 0.75em;
+    font-family: "Righteous", cursive;
 }
 
 
