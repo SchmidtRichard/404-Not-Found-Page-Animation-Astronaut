@@ -231,6 +231,53 @@ which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is 
     border-radius: 6px;
 }
 
+.arm-left1 {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 127px;
+    left: 9px;
+    width: 65px;
+    height: 20px;
+    border-radius: 8px;
+    transform: rotate(-30deg);
+}
+
+.arm-left2 {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 102px;
+    left: 7px;
+    width: 20px;
+    height: 45px;
+    border-radius: 8px;
+    transform: rotate(-12deg);
+    border-top-left-radius: 8em;
+    border-top-right-radius: 8em;
+}
+
+.arm-right1 {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 113px;
+    left: 100px;
+    width: 65px;
+    height: 20px;
+    border-radius: 8px;
+    transform: rotate(-10deg);
+}
+
+.arm-right2 {
+    background-color: #e6e6e6;
+    position: absolute;
+    top: 78px;
+    left: 141px;
+    width: 20px;
+    height: 45px;
+    border-radius: 8px;
+    transform: rotate(-10deg);
+    border-top-left-radius: 8em;
+    border-top-right-radius: 8em;
+}
 
 
 
