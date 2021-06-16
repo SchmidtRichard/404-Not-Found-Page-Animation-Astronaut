@@ -30,6 +30,16 @@ body {
     left: 500px;
 }
 
+.crater2 {
+    width: 40px;
+    height: 80px;
+    top: 650px;
+    left: 340px;
+    transform: rotate(55deg);
+}
+
+
+
 
 
 
